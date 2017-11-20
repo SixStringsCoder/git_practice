@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ha Ha Ha Ha The beginning is but the next step from the last ending which never ended because time is but a relaxant for a fearful mind worried about its insignificance.
+=======
+Hee Hee Hee Heeee! The ending is but the first step of the last step of the last beginning  which never ended because time is but a relaxant for a fearful mind worried about its insignificance.
+>>>>>>> new_idea
